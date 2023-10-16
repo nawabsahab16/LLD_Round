@@ -1,2 +1,2 @@
-export { TodoContext , Todoprovider , useTodo} from 'react';
+export { TodoContext , TodoProvider , useTodo} from 'react';
 
